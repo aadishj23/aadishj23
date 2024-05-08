@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/aadishj23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadishj23" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aadishj23/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aadish Jain" height="30" width="40" /></a>
-<a href="https://instagram.com/aadishj23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadish017" height="30" width="40" /></a>
 </p>
 
 
