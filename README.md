@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadishj03&label=Profile%20views&color=0e75b6&style=flat" alt="aadishj03" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/AadishJ03](https://github.com/AadishJ03)
+- 👨‍💻 All of my projects are available at [https://github.com/aadishj23](https://github.com/aadishj23)
 
 - 📫 How to reach me **aadishjain017@gmail.com**
 
